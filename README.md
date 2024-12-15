@@ -1,5 +1,5 @@
 # pro4.GapOpenExtend
-<your name + student ID>
+<110703041賴芷靚>
 ## Description
 
 * Write a Python script to perform pairwise alignment with two-type gap penalties.
@@ -56,6 +56,7 @@ Each testing data has a threshold score; output alignment score >= threshold get
 
 ## References
 Please provide the code along with its reference. For example, you can cite it as: ```# ChatGPT, respond to “your prompt,” on February 16, 2023```. Below is an example of a reference format summarizing the use of ChatGPT for R programming
+https://chatgpt.com/share/675ea9be-f974-800a-b711-d3eea92c0292
 
 >You are the R Language expert.
 >Please help me to write a function called “k_fold”.
